@@ -6,7 +6,7 @@
    * [DataCleansing 之正则](DataCleansing/Sams Teach Yourself Regular Expressions in 10 Minutes.md)
 * [Statistics](Statistics/README.md)
    * [Introduction to Probability & Statistics](Introduction to Probability and Statistics/README.md)
-      * [Variables And Data](Introduction to Probability and Statistics/Variables And Data.md)
+      * [Variables And Data](Introduction to Probability and Statistics/Variables and Data.md)
    * [Head First Statistics](Statistics/Head First Statistics.md)
 * [Python](Python/README.md)
    * [Python for Data Analysis](Python/Python for Data Analysis.md)

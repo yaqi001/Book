@@ -12,3 +12,5 @@
       * [Data and Statistics](Statistics/Statistics for Business and Economics/Data and Statistics.md)
 * [Python](Python/README.md)
    * [Python for Data Analysis](Python/Python for Data Analysis.md)
+   * [Think Python](Python/ThinkPython/README.md)
+      * [Chapter2](Python/ThinkPython/Chapter2.md)

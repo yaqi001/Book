@@ -89,3 +89,11 @@
        Division
        Addition
        Subtraction
+
+6. 字符串操作
+   
+   * **+**：相当于 concatenation
+   * *****：相当于 repetition
+
+7. 注释
+8. 调试

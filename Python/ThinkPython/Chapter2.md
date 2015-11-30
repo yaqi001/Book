@@ -82,6 +82,7 @@
    
    * rules of precedence（优先级法则）
      原来老外们是这么记的：
+
      | **PEMDAS** |
      | ---------- |
      | Parentheses |

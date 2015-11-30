@@ -82,13 +82,14 @@
    
    * rules of precedence（优先级法则）
      原来老外们是这么记的：
-     * PEMDAS：
-       Parentheses
-       Exponents
-       Multiplication
-       Division
-       Addition
-       Subtraction
+     | **PEMDAS** |
+     | ---------- |
+     | Parentheses |
+     | Exponents |
+     | Multiplication |
+     | Division |
+     | Addition |
+     | Subtraction |
 
 6. 字符串操作
    
@@ -96,4 +97,12 @@
    * *****：相当于 repetition
 
 7. 注释
+   
+   * python 将 # 开头到一行的末尾称为注释。
+   * 还有一种类似多行注释的符号："""blah blah"""，这个被称为 docstring，会在第四章提到。
+
 8. 调试
+   
+   * SyntaxError
+   * NameError
+   * 虽然没有报错，但是结果不正确

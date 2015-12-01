@@ -29,3 +29,13 @@
 4. Formal and natural languages
    
 5. The first program
+
+6. Debugging
+
+7. Glossary
+
+8. If you run a 10 kilometer race in 43 minutes 30 seconds, what is your average time per mile? What is your average speed in miles per hour? (Hint: there are 1.61 kilometers in a mile).
+   ~~~ bash
+   >>> ((43 + 0.5) / 60) / (10 / 1.61)
+   0.11672500000000001
+   ~~~

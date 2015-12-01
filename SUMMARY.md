@@ -13,4 +13,5 @@
 * [Python](Python/README.md)
    * [Python for Data Analysis](Python/Python for Data Analysis.md)
    * [Think Python](Python/ThinkPython/README.md)
+      * [Chapter1](Python/ThinkPython/Chapter1.md)
       * [Chapter2](Python/ThinkPython/Chapter2.md)

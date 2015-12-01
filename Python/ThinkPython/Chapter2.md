@@ -2,7 +2,7 @@
 
 1. 值 & 变量
 
-   * When you type a large integer, you might be tempted to use commas between groups of three digits, as in ✶✱✵✵✵✱✵✵✵. This is not a legal integer in Python, but it is legal:
+   * When you type a large integer, you might be tempted to use commas between groups of three digits, as in 1,000,000. This is not a legal integer in Python, but it is legal:
      ~~~ bash
      >>> type(1,000,000)
      Traceback (most recent call last):
